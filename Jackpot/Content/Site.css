@@ -1,0 +1,33 @@
+﻿.button {
+    font-size:20px;
+    width:30%;
+    margin-bottom:20px;
+    color:#E87E04;
+    margin-top:100px;
+}
+/*Circle created with padding and border radius*/ 
+.circle {
+    border-style:solid;
+    border-width:thin;
+    border-radius:50%;
+    display:inline-block;
+    margin:10px;
+    font-size:30px;
+    padding:15px;
+    background-color:#ECF0F1;
+    color:#E87E04;
+    text-align:center;
+}
+.specialCircle {
+    border-radius:50%;
+    display:inline-block;
+    margin:10px;
+    font-size:30px;
+    padding:15px;
+    background-color:#E87E04;
+    color:#ECF0F1;
+    text-align:center;
+}
+.numbers {
+    text-align:center;
+}
